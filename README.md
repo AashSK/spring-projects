@@ -4,4 +4,5 @@ This repository is a collection of my Spring Boot projects. This repository is a
 
 ## Projects
 
-- [Project 1](https://github.com/AashSK/spring-boot-taskmanager.git) – RESTful API for a task management system.
+- [Project 1](https://github.com/AashSK/spring-boot-taskmanager) – RESTful API for a task management system.
+- [Project 1](https://github.com/AashSK/spring-videostreaming-microservices) – RESTful API with microservices Architecture for a video streaming Platform.
